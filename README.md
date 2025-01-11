@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Satya Prakash 👋
 
-<!--
-**satya224/satya224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🎉  
+I’m a Java Developer specializing in backend development with Spring Boot and Microservices. I enjoy solving real-world problems and building scalable, secure applications. From APIs to system architecture, I’ve got it covered! 💻✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔥 Always eager to explore and work with new technologies.  
+- 🛠️ Skilled in Java, Spring Boot, Microservices, Kafka, and more!  
+- 🧠 Passionate about building scalable, secure, and maintainable systems.  
+- 🌍 Advocate for clean code, efficient solutions, and accessible software.
